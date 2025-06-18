@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Game of my life**
 
-- 🌱 I’m currently learning **Node.js, diving deeper into backend development, and working on advanced mechanics in Unity.**
+- 🌱 I’m currently learning **React.js, diving deeper into fullstack development, and working on advanced mechanics in Unity.**
 
 - 📫 How to reach me **mikolaj.sobczak06@icloud.com**
 
