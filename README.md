@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
-<h3 align="center">Web Developer | AI and Cybersecurity Enthusiast | Building immersive experiences in Unity with C# since 2020 | Exploring Node.js, Python, and innovative solutions in my spare time</h3>
+<h3 align="center">Web Developer | AI and Cybersecurity Enthusiast | Building immersive experiences in Unity/Godot with C# since 2020 | Exploring React Native, C++, and innovative solutions in my spare time</h3>
 
-- 🔭 I’m currently working on **Game of my life**
+- 🔭 I’m currently working on **life-improving project**
 
-- 🌱 I’m currently learning **React.js, diving deeper into fullstack development, and working on advanced mechanics in Unity.**
+- 🌱 I’m currently learning **React.js, diving deeper into fullstack development, and working on advanced mechanics in C++ and Swift.**
 
 - 📫 How to reach me **mikolaj.sobczak06@icloud.com**
 
