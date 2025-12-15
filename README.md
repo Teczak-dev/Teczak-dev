@@ -124,7 +124,6 @@
   <h2>Featured Projects</h2>
   <h3>
     <a href="https://github.com/Teczak-dev/fittrack-frontend" target="_blank">🏃 Fittrack</a>
-    <a href="https://github.com/Teczak-dev/Notatnik" target="_blank">📝 Notes</a>
     <a>🔒 Classified Project</a>
   </h3>
 </div>
