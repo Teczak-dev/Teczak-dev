@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">19 yo full-stack developer<br><br>👓 Glasses wearer. Not a Java developer</h3>
+<h3 align="center">19 yo full-stack developer</h3>
 
 ###
 
